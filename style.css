@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Tabla_01 tr td {
+    padding-left: 5px;
+    text-shadow: 0px 0px #F90206;
+    text-align: justify;
+    color: #110E00;
+    border-right-color: #EC6D70;
+    background-color: #F4E4AE;
+}
+#Tabla_01 tr td {
+}
+
+.divstexto {
+    background-color: #8E4E4F;
+}
+#Tabla_01 tr td {
+    background-color: #FC0B0B;
+}
+
+tr td img {
+}
+#Tabla_01 tr td {
+    color: #000000;
+    margin-right: 10px;
+}
+tr td img {
+    background-color: #B9F8F7;
+}
+tr td p {
+    color: #F9F8F8;
+    margin-right: 0px;
+    padding-right: 10px;
+}
+#MENU {
+    color: #011C66;
+    float: left;
+    text-align: center;
+}
